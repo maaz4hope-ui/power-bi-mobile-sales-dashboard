@@ -44,13 +44,13 @@ Interactive Power BI dashboard analyzing mobile phone sales performance across I
 ## 📁 Files
 
 - `Mobile Sales Data.xlsx` — source dataset
-- `Dashboard-Overview.png` — dashboard preview
+- `Dashboard_Overview.png` — dashboard preview
 
 ---
 
 ## 🖼️ Screenshot
 
-![Mobile Sales Dashboard](Dashboard-Overview.png)
+![Mobile Sales Dashboard](Dashboard_Overview.png)
 
 ---
 
